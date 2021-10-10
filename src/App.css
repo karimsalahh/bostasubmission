@@ -249,6 +249,7 @@ div.transit-events-container {
 div.show {
   /* height that the div shouldn't ever exceed */
   max-height: 1200px;
+  overflow-y: scroll;
 }
 
 p.event {
